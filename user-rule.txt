@@ -1,0 +1,25 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+https://github.com/
+https://github.io/
+https://mvnrepository.com/
+https://www.elastic.co/
+https://feedly.com/
+https://spring.io/
+https://google.com/
+https://www.google.com/
+https://mail.google.com/
+https://translate.google.com/
+https://mongoosejs.com/
+https://hub.docker.com/
+https://docker.io/
+https://docker.com/
+https://hub.docker.com/
+https://login.docker.com/
+https://element-plus.org/
+https://go.dev/
+https://openai.com/
+https://chat.openai.com/
+https://platform.openai.com/
+https://sms-activate.org/
+https://typora.io/
