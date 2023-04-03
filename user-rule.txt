@@ -20,6 +20,7 @@ https://element-plus.org/
 https://go.dev/
 https://openai.com/
 https://chat.openai.com/
+https://api.openai.com
 https://platform.openai.com/
 https://sms-activate.org/
 https://typora.io/
