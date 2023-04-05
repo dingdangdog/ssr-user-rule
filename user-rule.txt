@@ -24,3 +24,4 @@ https://api.openai.com
 https://platform.openai.com/
 https://sms-activate.org/
 https://typora.io/
+https://www.cnbeta.com.tw/
