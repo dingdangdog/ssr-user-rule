@@ -19,9 +19,12 @@ https://login.docker.com/
 https://element-plus.org/
 https://go.dev/
 https://openai.com/
-https://chat.openai.com/
 https://api.openai.com
+https://chat.openai.com/
 https://platform.openai.com/
 https://sms-activate.org/
 https://typora.io/
 https://www.cnbeta.com.tw/
+https://www.awesomes.cn/
+https://app.slack.com/
+https://slack.com/
